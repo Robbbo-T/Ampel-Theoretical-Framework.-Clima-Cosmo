@@ -1,4 +1,23 @@
-# Equazioni-di-Amedeo-Pelliccia
+import qrcode
+
+# Definición de las secciones y su contenido correspondiente
+secciones = {
+    "Introducción": "Contenido introductorio de las ecuaciones de Amedeo Pelliccia.",
+    "Definición de Ecuaciones": "Explicación detallada de las ecuaciones desarrolladas por Amedeo Pelliccia.",
+    "Aplicaciones en Energía de Punto Cero": "Uso de las ecuaciones en la modelización de sistemas de energía de punto cero (ZPE).",
+    "Implementación en Modelos de Cambio Climático": "Cómo las ecuaciones se utilizan para mejorar los modelos de cambio climático.",
+    "Simulaciones Cuánticas": "Aplicación de las ecuaciones en simulaciones basadas en principios cuánticos.",
+    "Conclusión": "Resumen y conclusiones sobre el impacto de las ecuaciones de Amedeo Pelliccia."
+}
+
+# Generación de códigos QR para cada sección
+for nombre_seccion, contenido in secciones.items():
+    # Crear el código QR
+    qr = qrcode.make(contenido)
+    
+    # Guardar el código QR como imagen
+    qr.save(f"{nombre_seccion.replace(' ', '_')}_QR.png")
+    print(f"Código QR generado para la sección: {nombre_seccion}")# Equazioni-di-Amedeo-Pelliccia
 ## **Contenidos**
 import qrcode
 
