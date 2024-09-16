@@ -1,5 +1,5 @@
-# Todos los modelos de Amedeo Pelliccia
-
+# Todos los modelos y ecuaciones rde Amedeo Pelliccia
+## Marco Teórico  
 ### **Síntesis de los Modelos y Ecuaciones de Amedeo Pelliccia: Origen del Big Bang y Cambio Climático**
 
 Amedeo Pelliccia propone un enfoque unificado para integrar la **cosmología** (particularmente el origen del Big Bang y la evolución del universo) con el **cambio climático**, formulando una **Teoría del Todo (ToE)** que conecte fenómenos a escalas cosmológicas y planetarias. Este enfoque se basa en la combinación de modelos matemáticos, teorías físicas, y simulaciones avanzadas para explorar cómo los procesos cósmicos pueden influir en el clima planetario y viceversa.
