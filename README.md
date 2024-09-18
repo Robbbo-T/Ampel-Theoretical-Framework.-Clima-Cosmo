@@ -1,4 +1,4 @@
-# Todos los modelos y ecuaciones rde Amedeo Pelliccia
+# Todos los modelos y ecuaciones de Amedeo Pelliccia
 ## Marco Teórico  
 ### **Síntesis de los Modelos y Ecuaciones de Amedeo Pelliccia: Origen del Big Bang y Cambio Climático**
 
