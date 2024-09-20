@@ -1,8 +1,8 @@
 ### **Introducción** 
-Objetivos y Alcance
-Importancia de la Unificación Cosmología-Clima
-Desarrollo de Modelos Matemáticos Integrados
-Integración de Relatividad General y Dinámica de Fluidos
+### Objetivos y Alcance
+### Importancia de la Unificación Cosmología-Clima
+### Desarrollo de Modelos Matemáticos Integrados
+### Integración de Relatividad General y Dinámica de Fluidos
 Variables y Parámetros Comunes
 Modelos de Amedeo Pelliccia
 Modelos para el Cambio Climático
